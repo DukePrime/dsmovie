@@ -30,6 +30,8 @@ function Listing() {
             });
     }, [pageNumber]);
 
+   
+
 
     return (
         <>
@@ -46,10 +48,6 @@ function Listing() {
                         </div>
                     )
                     )}
-
-
-
-
                 </div>
             </div>
         </>
