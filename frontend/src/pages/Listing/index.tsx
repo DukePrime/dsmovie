@@ -29,10 +29,7 @@ function Listing() {
 
             });
     }, [pageNumber]);
-
    
-
-
     return (
         <>
 
